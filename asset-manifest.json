@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/eclipse/static/css/main.f6d30722.css",
+    "main.js": "/eclipse/static/js/main.b5a354b4.js",
+    "static/media/parallax.gif": "/eclipse/static/media/parallax.511ae687bd51343c6fb4.gif",
+    "static/media/eclipse.gif": "/eclipse/static/media/eclipse.2b35fb4961f6764d6170.gif",
+    "static/media/tauro.gif": "/eclipse/static/media/tauro.c21489c6a6e848ae608f.gif",
+    "static/media/fondo.jpeg": "/eclipse/static/media/fondo.0d1eabbcdcbf3fb3bed7.jpeg",
+    "static/media/troll.gif": "/eclipse/static/media/troll.a322b1b0699dbddcb1f5.gif",
+    "static/media/soul.png": "/eclipse/static/media/soul.f3ea5398c4d7e16a35fb.png",
+    "static/media/chica.png": "/eclipse/static/media/chica.078aefa28186adf9884a.png",
+    "static/media/rey2.png": "/eclipse/static/media/rey2.a38963649cebf1315735.png",
+    "static/media/logo_prov.jpeg": "/eclipse/static/media/logo_prov.f1801ac4748571a5e12a.jpeg",
+    "static/media/hombre.png": "/eclipse/static/media/hombre.5b8eb0e95fbe3999814b.png",
+    "static/media/arma2.gif": "/eclipse/static/media/arma2.e2f95fe692a590bfdec3.gif",
+    "static/media/arma.png": "/eclipse/static/media/arma.ed1b79cf61bcab7959f1.png",
+    "static/media/rey.png": "/eclipse/static/media/rey.b2ccafffa3faff39e26f.png",
+    "static/media/cara.jpeg": "/eclipse/static/media/cara.eee773c3add5bf36880d.jpeg",
+    "static/media/pliplon.png": "/eclipse/static/media/pliplon.abf020a547098448e19c.png",
+    "static/media/lord.gif": "/eclipse/static/media/lord.bbb32b24f8da6ed3bf38.gif",
+    "static/media/viejo.gif": "/eclipse/static/media/viejo.3f741f16ec4df21c8b07.gif",
+    "static/media/loader.gif": "/eclipse/static/media/loader.64cdbe910a510771c296.gif",
+    "static/media/twitter.png": "/eclipse/static/media/twitter.d67fc83e74561d99067b.png",
+    "static/media/final.gif": "/eclipse/static/media/final.1fcaa6384f539a8524e3.gif",
+    "static/media/sabio.jpeg": "/eclipse/static/media/sabio.291c5c0f3275f0a5a536.jpeg",
+    "static/media/Discord.png": "/eclipse/static/media/Discord.b872d53ea2d3d9e24b61.png",
+    "static/media/futuro.jpeg": "/eclipse/static/media/futuro.a849828da1b4614475e5.jpeg",
+    "index.html": "/eclipse/index.html",
+    "main.f6d30722.css.map": "/eclipse/static/css/main.f6d30722.css.map",
+    "main.b5a354b4.js.map": "/eclipse/static/js/main.b5a354b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d30722.css",
+    "static/js/main.b5a354b4.js"
+  ]
+}
