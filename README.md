@@ -11,4 +11,17 @@ Explora paisajes impresionantes, desde bosques encantados hasta cavernas oscuras
 
 En Eclipse, la habilidad y la estrategia son clave. Salta, corre y esquiva obstáculos mientras te enfrentas a enemigos formidables y resuelves ingeniosos rompecabezas. A medida que avanzas, desbloquearás habilidades especiales que te ayudarán a superar los desafíos más difíciles y a acercarte a tu objetivo final.
 
-Con una historia envolvente y una atmósfera cautivadora, Eclipse te invita a sumergirte en un viaje inolvidable. ¿
+Con una historia envolvente y una atmósfera cautivadora, Eclipse te invita a sumergirte en un viaje inolvidable. 
+
+
+
+
+Estamos desarrollando dos partes del juego una es la wiki donde se podra encontrar toda la información sobre este juego, como armas, personajes, historia, actualizaciones, etc. Esta pensada para que se tenga la idea general del proyecto en un lugar accesible donde todas las personas puedan ver y aprender sobre el juego.
+
+La parte del desarrollo del videojuego se esta utilizando UNITY y el lenguaje de programacion C#, se tiene las bases y se van añadiendo nuevas cosas cada mes.
+
+
+![image](https://github.com/chechojgb/eclipse/assets/100326731/a0421326-5290-4539-861a-c0870ba0c5fb)
+
+
+
