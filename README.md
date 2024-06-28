@@ -25,3 +25,6 @@ La parte del desarrollo del videojuego se esta utilizando UNITY y el lenguaje de
 
 
 
+Al desarrollar las primeras versiones utilizamos plantillas de biomas, personajes y objetos, para poder avanzar con la logica y poder tener una idea clara de lo que necesitamos
+
+![image](https://github.com/chechojgb/eclipse/assets/100326731/f4228c2d-9cf8-4282-8c52-24f7a0b49073)
