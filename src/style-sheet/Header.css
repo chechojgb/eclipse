@@ -1,0 +1,132 @@
+.container-header{
+    width: 100%;
+    height: 100%;
+}
+.header{
+    background-color:  #0f2a42;
+    max-width: 1500px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    grid-template-rows: 1fr min-content;
+}
+.header-top{
+    text-align: center;
+    padding-bottom: 10px;
+    min-width: 50px;
+    max-width: 100px;
+    height: auto;
+    width: 100px;
+}
+
+
+  
+.header img{
+    grid-row: 1/3;
+    display: block;
+    max-height: 100px;
+    max-width: 250px;
+    object-fit: scale-down;
+    object-position: bottom;
+}
+.header-title{
+    grid-row: 1/3;
+    display: block;
+    max-height: 100px;
+    max-width: 250px;
+    object-fit: scale-down;
+    object-position: bottom;
+}
+.header-title h1{
+    display: none;
+}
+  
+.header-image{
+    align-items: flex-end;
+    display: flex;
+    height: 67px;
+    justify-content: space-between;
+}
+  
+.navegation{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(2ch, max-content));
+}
+  
+
+
+.header-bottom{
+    position: fixed;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 10px;
+    min-width: 100px;
+}
+.header-ul{
+    text-align: center;
+    color: #000;
+}
+
+
+.subnav{
+    text-align: left;
+    background-color: #0d2a44;
+    color: #000;
+    top: 11px;
+    color: #000;
+    position: absolute;
+    overflow: visible;
+    border-radius: 10px;
+}
+
+.subnav span{
+    color: #ffffff;
+}
+.subnav li{
+    padding: 7px;
+}
+.subnav li:hover{
+    border-radius: 10px;
+    background-color: #333;
+}
+.fa-caret-up{
+    color: #0d2a44;
+    top: 88px;
+}
+.click{
+    cursor: pointer;
+}
+.header-content h1{
+    display: none;
+}   
+.header-content{
+    grid-row: 1 / 3;
+    display: block;
+    max-height: 100px;
+    max-width: 250px;
+    object-fit: scale-down;
+    object-position: bottom;
+}
+
+@media only screen and (max-width: 700px) {
+    .header{
+        display: flow;
+    }
+    .header-image{
+        display: none;
+    }
+    .header-content{
+        display: flex;
+    }
+    .header-content h1{
+        margin-top: 20px;
+    }
+    .header-content h1{
+        display: block;
+        margin-top: 30px;
+    }  
+    .navegation{
+        margin-top: 10px;
+        padding-left: 20px;
+    }
+}
