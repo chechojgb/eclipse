@@ -23,15 +23,16 @@ Estamos desarrollando dos partes del juego una es la wiki donde se podra encontr
 La parte del desarrollo del videojuego se esta utilizando UNITY y el lenguaje de programacion C#, se tiene las bases y se van añadiendo nuevas cosas cada mes.
 
 
+
+
 ![image](https://github.com/chechojgb/eclipse/assets/100326731/a0421326-5290-4539-861a-c0870ba0c5fb)
 
-
-
 Al desarrollar las primeras versiones utilizamos plantillas de biomas, personajes y objetos, para poder avanzar con la logica y poder tener una idea clara de lo que necesitamos
+
+https://github.com/chechojgb/eclipse/assets/100326731/395ff220-d516-45ab-8044-1b72edb8deb9
 
 ![image](https://github.com/chechojgb/eclipse/assets/100326731/f4228c2d-9cf8-4282-8c52-24f7a0b49073)
 
 
 
-https://github.com/chechojgb/eclipse/assets/100326731/395ff220-d516-45ab-8044-1b72edb8deb9
 
