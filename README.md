@@ -13,6 +13,8 @@ En Eclipse, la habilidad y la estrategia son clave. Salta, corre y esquiva obst√
 
 Con una historia envolvente y una atm√≥sfera cautivadora, Eclipse te invita a sumergirte en un viaje inolvidable. 
 
+![image](https://github.com/chechojgb/eclipse/assets/100326731/a9c9acfd-40ec-4572-9ef1-be64657c225b)
+
 
 
 
@@ -28,3 +30,8 @@ La parte del desarrollo del videojuego se esta utilizando UNITY y el lenguaje de
 Al desarrollar las primeras versiones utilizamos plantillas de biomas, personajes y objetos, para poder avanzar con la logica y poder tener una idea clara de lo que necesitamos
 
 ![image](https://github.com/chechojgb/eclipse/assets/100326731/f4228c2d-9cf8-4282-8c52-24f7a0b49073)
+
+
+
+https://github.com/chechojgb/eclipse/assets/100326731/395ff220-d516-45ab-8044-1b72edb8deb9
+
